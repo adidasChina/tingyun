@@ -18,8 +18,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "tingyunApp",
-            url: "https://github.com/adidasjc/tingyun/releases/download/2.17.4/tingyunApp.xcframework.zip",
-            checksum: "f7becfa3c0d86c31daf5d05ef9a4522c415341dba063bb66ee5094efe2985630"
+            url: "https://github.com/adidasjc/tingyun/releases/download/2.17.6.1/tingyunApp.xcframework.zip",
+            checksum: "519b98b2086bedecd259ce2530535641daee4eb58b8a30f92db130d059d9db7f"
         )
     ]
 )
